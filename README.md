@@ -15,15 +15,6 @@ Trabalho desenvolvido como parte da avaliação da **Global Solution (GS)** para
 
 ---
 
-## 📺 Vídeo de Demonstração (Apresentação / Pitch)
-
-De acordo com as diretrizes da avaliação, gravamos uma apresentação detalhada do funcionamento do sistema, explicando a arquitetura lógica, as validações e mostrando uma simulação de uso completa:
-
-👉 **[Assista ao vídeo de apresentação no YouTube](INSIRA_O_LINK_DO_SEU_VIDEO_AQUI)**
-*(Nota para os alunos: Lembrem-se de substituir este link pelo link real do vídeo de vocês no YouTube antes da entrega final!)*
-
----
-
 ## 📋 1. O Problema e o Contexto Ambiental
 
 Os desastres ambientais, como incêndios florestais (queimadas), desmatamento ilegal e poluição industrial em rios ou oceanos, representam algumas das maiores ameaças à biodiversidade global e ao equilíbrio climático. O monitoramento terrestre tradicional é frequentemente limitado por barreiras geográficas e falta de pessoal em áreas remotas (como a Floresta Amazônica).
